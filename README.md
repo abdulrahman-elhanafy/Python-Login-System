@@ -83,3 +83,13 @@ login
 - For production apps, consider using **hashed passwords** and a real database.
 
 ---
+
+
+## 🤝 Contributing
+
+This is a **beginner-friendly project** 🎉.
+Feel free to:
+
+* ⭐ Star this repo if you like it
+* 🍴 Fork it and improve the code
+* 🔄 Open a Pull Request with new features or fixes
