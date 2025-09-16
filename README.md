@@ -57,7 +57,7 @@ login
 1. Clone the repo:
 
    ```sh
-   git clone https://github.com/username/Python-Login-System.git
+   git clone https://github.com/abdulrahman-elhanafy/Python-Login-System.git
    cd Python-Login-System
    ```
 
